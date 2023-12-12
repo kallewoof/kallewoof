@@ -1,3 +1,1 @@
-- Twitter: [@kallewoof](https://twitter.com/kallewoof)
-- Libera: kalle / kallewoof
-- PGP fingerprint: 57AF 762D B335 3322
+
